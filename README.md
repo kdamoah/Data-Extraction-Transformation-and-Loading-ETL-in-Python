@@ -7,8 +7,8 @@ The following are the project tasks:
 - Collecting data using APIs
 - Collecting data using web scraping
 - Downloading files to process
-- Reading csv, xml and json file types
+- Reading csv and json file types
 - Extracting data from the above file types
 - Transforming data
-- Using the built in logging module
+- Using a built in logging module
 - Saving the transformed data in a ready-to-load format for data engineers to use to load the data
